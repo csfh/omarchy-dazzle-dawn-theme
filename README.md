@@ -4,7 +4,7 @@
 
 # Omarchy Dazzle Dawn Theme
 
-An Omarchy theme for bright terminals, crisp contrast, and daylight focus. Dazzle Dawn keeps the same electric Dazzle palette as Dusk, then turns the room white: black ink, cyan glass, berry highlights, and warm amber punctuation.
+An Omarchy theme for bright terminals, crisp contrast, and daylight focus. Dazzle Dawn keeps the same electric Dazzle palette as Dusk, then turns the room to warm paper: black ink, cyan glass, berry highlights, and warm amber punctuation.
 
 ## Install
 
@@ -22,14 +22,14 @@ https://github.com/csfh/omarchy-dazzle-dawn-theme
 
 | Role | Hex |
 | --- | --- |
-| Background | `#ffffff` |
-| Foreground | `#1c1c1c` |
-| Accent | `#00afd7` |
-| Red | `#d75f87` |
-| Green | `#5faf5f` |
-| Yellow | `#d78700` |
-| Magenta | `#af5fd7` |
-| Cyan | `#00afaf` |
+| Background | `#f5f1ea` |
+| Foreground | `#111111` |
+| Accent | `#00c2ee` |
+| Red | `#f2477c` |
+| Green | `#32c24a` |
+| Yellow | `#f5a000` |
+| Magenta | `#c550fb` |
+| Cyan | `#00c6c6` |
 
 ## Included
 
@@ -39,7 +39,7 @@ Desktop, terminal, editor, launcher, notification, bar, lock screen, browser, Di
 
 ## Pairing
 
-Dawn is the light counterpart to [Dazzle Dusk](https://github.com/csfh/omarchy-dazzle-dusk-theme). Use Dawn when you want the Dazzle color system in a paper-bright workspace.
+Dawn is the light counterpart to [Dazzle Dusk](https://github.com/csfh/omarchy-dazzle-dusk-theme). Use Dawn when you want the Dazzle color system on warm paper.
 
 ## Backgrounds
 
