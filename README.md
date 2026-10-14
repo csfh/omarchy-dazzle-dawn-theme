@@ -48,7 +48,7 @@ Dawn is the light counterpart to [Dazzle Dusk](https://github.com/csfh/omarchy-d
 The other wallpapers are photographs on [Unsplash](https://unsplash.com), used under the [Unsplash License](https://unsplash.com/license):
 
 - [`gold-pass`](backgrounds/gold-pass.webp) by [Christof Grossfurtner](https://unsplash.com/photos/a-man-standing-on-top-of-a-lush-green-hillside-2KCJU2t6Afc), enhanced in two contextual AI passes and cropped to 7680 × 4320 (8K UHD). Fine detail is AI-reconstructed; the wallpaper uses lossless WebP.
-- [`rose-alpenglow`](backgrounds/rose-alpenglow.jpg) by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) ([photo](https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-daytime-DgdJ_0us5SE))
+- [`rose-alpenglow`](backgrounds/rose-alpenglow.webp) by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) ([photo](https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-daytime-DgdJ_0us5SE)), enhanced in two contextual AI passes and cropped to 7680 × 4320 (8K UHD). Fine detail is AI-reconstructed; the wallpaper uses lossless WebP.
 
 ## License
 
