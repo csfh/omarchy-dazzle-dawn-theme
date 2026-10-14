@@ -43,7 +43,7 @@ Dawn is the light counterpart to [Dazzle Dusk](https://github.com/csfh/omarchy-d
 
 ## Backgrounds
 
-`omarchy-buck-light` is the theme stag.
+[`omarchy-buck-light`](backgrounds/omarchy-buck-light.webp) is the theme stag, resized to 7680 × 4320 (8K UHD) and stored as lossless WebP. Two contextual AI passes were attempted; the edits altered the glyphs or background, so the final wallpaper preserves the original artwork with a proportional resize.
 
 The other wallpapers are photographs on [Unsplash](https://unsplash.com), used under the [Unsplash License](https://unsplash.com/license):
 
